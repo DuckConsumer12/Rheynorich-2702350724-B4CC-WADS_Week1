@@ -1,8 +1,8 @@
 # Github as a portfolio
 
-Name: Rheynorich
-ID: 2702350724
-Class: B4CC
+- Name: Rheynorich
+- ID: 2702350724
+- Class: B4CC
 
 
 # Topic: Microservices 
@@ -13,6 +13,13 @@ Class: B4CC
 Microservice is one out of 3 architechures for web development. Its architect is made out of a collection of small, independent services that communicate via APIs. Each one of the services has their own functions which makes the system scaleable, flexible and easier to maintain.
 
 # Why do we use Microservices in Web Dev?
+Scalability – Services can be scaled independently based on demand.
+Flexibility – Developers can use different technologies for different services.
+Faster Development & Deployment – Teams can work on separate services without affecting others.
+Fault Isolation – If one service fails, the rest of the application keeps running.
+Easier Maintenance & Updates – Updates can be made to a single service without redeploying the entire application.
+Microservices are ideal for large, complex applications that need high availability and agility
+
 
 # An example of Microservices
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simform.com%2Fblog%2Fhow-does-microservices-architecture-work%2F&psig=AOvVaw0AOU59GAnrYZLxLszR5QQd&ust=1739441364930000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD_zZjyvYsDFQAAAAAdAAAAABAE)
+![image](https://www.simform.com/wp-content/uploads/2023/12/Monolthic-vs.-Microservices-Architecture.png)
